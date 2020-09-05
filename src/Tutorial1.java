@@ -6,6 +6,9 @@ public class Tutorial1 {
     public static void main(String[] args) {
         System.out.println("Question 1");//question 1
 
+
+        System.out.print("Chinthana Changed this line");
+
         System.out.println("Hello World\n");
 
         System.out.println("Question 2");//question 2
