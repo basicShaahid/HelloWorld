@@ -8,6 +8,7 @@ public class Tutorial1 {
 
 
         System.out.print("Chinthana Changed this line");
+        System.out.print("added a new line");
 
         System.out.println("Hello World\n");
 
